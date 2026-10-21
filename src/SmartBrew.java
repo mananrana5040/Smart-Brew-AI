@@ -14,6 +14,8 @@ import java.util.*;
  *
  * Note: NFC authentication and payments are simulated. Data is stored in memory.
  */
+
+
 public class SmartBrew {
 
     private static final Scanner sc = new Scanner(System.in);
