@@ -1,0 +1,2 @@
+transaction_id,customer,beverage,price_sek,payment_status
+TX-1,Customer-1001,Latte,40.00,SIMULATED_SUCCESS
