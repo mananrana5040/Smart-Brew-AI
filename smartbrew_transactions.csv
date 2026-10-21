@@ -1,0 +1,2 @@
+OrderID,Timestamp,Customer,Beverage,PriceSEK,PaymentStatus
+1001,2026-10-21 10:58:28,Demo Customer,Latte,35.00,SIMULATED_SUCCESS
